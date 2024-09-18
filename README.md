@@ -16,12 +16,13 @@
 
 ### Dockerビルド
 
-1.git clone git@github.com:mymnsd/Rese.git
+1.git clone git@github.com:mymnsd/Portfolio1.git
 
 2.DockerDesktopアプリを立ち上げる
 
 3.docker-compose up -d --build
 
+### laravel環境構築
 
 1.docker-compose exec php bash
 
